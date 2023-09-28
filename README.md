@@ -11,4 +11,4 @@
 
 ### Links
 
-<!-- - Live Site URL: []() -->
+- Live Site URL: [https://eat-n-split-byozan.netlify.app/](https://eat-n-split-byozan.netlify.app/)
